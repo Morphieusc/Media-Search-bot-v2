@@ -18,7 +18,7 @@
 ## Installation
 
 ### Easy Way
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LXR-YOUTUBER-AMAL/Media-Search-bot-v2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Morphieusc/Media-Search-bot-v2/commit/25caf57cccaab5508db243faec700dbacb2cd7c3)
 ### Hard Way
 
 ```bash
